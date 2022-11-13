@@ -1,5 +1,5 @@
 void setup(){
-  //version modificada por ozzy
+  //No we, no hagas eso
 }
 void loop(){
 
